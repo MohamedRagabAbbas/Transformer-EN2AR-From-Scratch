@@ -1,4 +1,4 @@
-### Transformer-EN2AR-From-Scratch
+## Transformer-EN2AR-From-Scratch
 
 This repository contains a PyTorch implementation of the Transformer model from scratch, following the seminal paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762). This model is used for translating text from English to Arabic.
 
