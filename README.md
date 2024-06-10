@@ -1,5 +1,6 @@
 
 # Transformer from Scratch
+# Transformer-EN2AR-From-Scratch
 
 This repository contains a PyTorch implementation of the Transformer model from scratch, following the seminal paper [Attention Is All You Need](https://arxiv.org/abs/1706.03762). This model is used for translating text from English to Arabic.
 
@@ -62,7 +63,7 @@ The Output Layer is the final component of the Transformer model. It takes the D
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/MohamedRagabAbbas/transformer-from-scratch.git
+    git clone https://github.com/MohamedRagabAbbas/Transformer-EN2AR-From-Scratch.git
     cd transformer-from-scratch
     ```
 
